@@ -1,6 +1,6 @@
 ### Olá, Prazer me chamo Eduardo Raghi Rashid Fernandes, mas pode me chamar só de Raghi! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghi-rashid-04a067218/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-raghi-rashid-fernandes-40834a257)
 
 ## Tecnologias que eu tenho conhecimento
 
